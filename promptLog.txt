@@ -1,0 +1,27 @@
+
+As a systems engineer, review the 2026-11 DevFest Florida/GUIDE Materials/guide_data_model_schema_v1.0.0.json and outline the key elements that would be helpful to the pain points of an advisor. research/commonAdvisorPainPoints.md
+- document in dataReview1.md
+
+===
+
+Think about the following requirements.
+
+draft an import program to import the data sample into the guide data model
+- consider observations from research/dataModelReviewForAdvisor.md
+- organize the code using specs/clean_architecture.md
+- import all data from 2026-11 DevFest Florida/GUIDE Materials/csv
+- tech stack
+    - python
+    - postgres
+
+- Draft a plan of technical approach and document in techSpec1.md
+
+===
+
+Based on the following specs, implement the data import program, guide core model, and infra
+- techSpec1.md
+- PLAN_SUMMARY.md
+- IMPLEMENTATION_GUIDE.md  
+- IMPLEMENTATION_CHECKLIST.md
+- we will import data to pg database specified here: dockerCompose/docker-compose.yaml
+

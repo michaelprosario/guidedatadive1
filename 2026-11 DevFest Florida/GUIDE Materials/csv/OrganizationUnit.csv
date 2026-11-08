@@ -1,0 +1,3 @@
+TenantIdentifier,OrganizationUnitIdentifier,OrganizationIdentifier,ParentOrganizationUnitIdentifier,OrganizationUnitCode,OrganizationUnitName,OrganizationUnitTypeIdentifier,ActiveIndicator,EffectiveStartDate,EffectiveEndDate,SourceSystemIdentifier,SourceSystemKeyValue,CreatedBy,CreatedDate,UpdatedBy,UpdatedDate,DeletedBy,DeletedDate
+a3b1799d-1c80-4066-abdd-3eb146685257,OU-college,college,,OrganizationUnitCode-1,Academic Affairs,OrganizationUnitType-1,true,,,SS-sis,K0000037,7071,2023-08-01T18:23:09,2129,2023-08-04T20:34:09,,
+a3b1799d-1c80-4066-abdd-3eb146685257,OU-university,university,,OrganizationUnitCode-2,Academic Affairs,OrganizationUnitType-1,true,,,SS-sis,K0000039,8616,2023-08-01T16:28:42,8136,2023-08-15T17:03:42,,

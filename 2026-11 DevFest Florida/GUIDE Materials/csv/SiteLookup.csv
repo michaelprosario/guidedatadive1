@@ -1,0 +1,2 @@
+TenantIdentifier,SiteIdentifier,SiteCode,SiteName,SiteTypeIdentifier,ActiveIndicator,SourceSystemIdentifier,SourceSystemKeyValue,CreatedBy,CreatedDate,UpdatedBy,UpdatedDate
+a3b1799d-1c80-4066-abdd-3eb146685257,Site-1,SiteCode-1,SiteName-1,RCV-cohortType-StudentSuccess,true,SS-degree,K0023469,1168,2023-08-01T13:47:34,8820,2023-08-01T14:41:38

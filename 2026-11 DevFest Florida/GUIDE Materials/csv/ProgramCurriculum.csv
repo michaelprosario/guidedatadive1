@@ -1,0 +1,5 @@
+TenantIdentifier,ProgramCurriculumIdentifier,ProgramOfStudyIdentifier,AcademicCatalogIdentifier,CurriculumCode,CurriculumName,Description,TotalCreditsRequired,EffectiveStartDate,EffectiveEndDate,SourceSystemIdentifier,SourceSystemKeyValue,SourceSystemCreatedDate,SourceSystemUpdatedDate,CreatedBy,CreatedDate,UpdatedBy,UpdatedDate,DeletedBy,DeletedDate
+a3b1799d-1c80-4066-abdd-3eb146685257,CUR-aa,POS-college-Degree,CAT-college-2019,AA,Associate in Arts,,60,2019-08-01,,SS-sis,K0226040,,,3684,2023-08-01T16:47:28,3294,2023-08-15T17:22:28,,
+a3b1799d-1c80-4066-abdd-3eb146685257,CUR-cert,POS-college-Certificate,CAT-college-2019,CERT,College Credit Certificate,,24,2019-08-01,,SS-sis,K0226126,,,5505,2023-08-01T14:53:37,2795,2023-08-11T15:13:37,,
+a3b1799d-1c80-4066-abdd-3eb146685257,CUR-ba,POS-university-Arts,CAT-university-2019,BA,Bachelor of Arts,,120,2019-08-01,,SS-sis,K0226129,,,1245,2023-08-01T10:41:07,3040,2023-08-01T15:34:20,,
+a3b1799d-1c80-4066-abdd-3eb146685257,CUR-bs,POS-university-Science,CAT-university-2019,BS,Bachelor of Science,,120,2019-08-01,,SS-sis,,,,6867,2023-08-01T15:58:56,8465,2023-08-04T18:09:56,,

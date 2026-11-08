@@ -1,0 +1,2 @@
+TenantIdentifier,CourseStatusIdentifier,SourceSystemIdentifier,Code,Title,Description,StatusCategory,SourceSystemKeyValue,CreatedDate,UpdatedDate
+a3b1799d-1c80-4066-abdd-3eb146685257,CSTAT-active,SS-sis,Active,Active,,StatusCategory-1,K0015153,2023-08-01T12:34:11,2023-08-29T12:56:11

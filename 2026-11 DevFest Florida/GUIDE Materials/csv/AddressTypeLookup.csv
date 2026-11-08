@@ -1,0 +1,2 @@
+TenantIdentifier,AddressTypeIdentifier,SourceSystemIdentifier,Code,Title,Description,StandardAddressType,SourceSystemKeyValue,CreatedDate,UpdatedDate
+a3b1799d-1c80-4066-abdd-3eb146685257,AddressType-1,SS-crm,Code-1,Title-1,,StandardAddressType-1,K0000104,2023-08-01T11:05:23,2023-08-04T13:16:23

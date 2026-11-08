@@ -1,0 +1,3 @@
+TenantIdentifier,SuccessPredictionModelIdentifier,SourceSystemIdentifier,Name,TargetOutcome,ModelVersion,TimeHorizonDescription,Description,SourceSystemKeyValue,CreatedBy,CreatedDate,UpdatedBy,UpdatedDate,DeletedBy,DeletedDate
+a3b1799d-1c80-4066-abdd-3eb146685257,MODEL-college,SS-sis,College persistence model,Persistence,ModelVersion-1,,,K2095041,2962,2023-08-01T16:05:14,8430,2023-08-04T18:16:14,,
+a3b1799d-1c80-4066-abdd-3eb146685257,MODEL-university,,University retention model,Retention,ModelVersion-2,,,K2095042,4250,2023-08-01T09:28:25,2025,2023-08-25T09:53:25,,

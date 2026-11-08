@@ -1,0 +1,2 @@
+TenantIdentifier,GradeSchemeIdentifier,Code,Title,Description,AcademicLevelIdentifier,GradeModeIdentifier,StartDate,EndDate,SourceSystemIdentifier,SourceSystemKeyValue,CreatedDate,UpdatedDate
+a3b1799d-1c80-4066-abdd-3eb146685257,GS-letter,Code-1,Title-1,,AcademicLevel-1,GradeMode-1,,,SS-sis,K0000026,2023-08-01T13:53:32,2023-08-01T15:23:20

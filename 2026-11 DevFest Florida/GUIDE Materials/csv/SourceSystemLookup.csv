@@ -1,0 +1,8 @@
+TenantIdentifier,SourceSystemIdentifier,Name,Description,Status,SourceSystemKeyValue,SourceSystemCreatedDate,SourceSystemUpdatedDate,SourceSystemDeletedDate,CreatedBy,CreatedDate,UpdatedBy,UpdatedDate,DeletedBy,DeletedDate
+a3b1799d-1c80-4066-abdd-3eb146685257,SS-sis,Banner Student Information,,Active,K0000001,,,,9935,2023-08-01T10:12:46,2424,2023-08-08T10:46:46,,
+a3b1799d-1c80-4066-abdd-3eb146685257,SS-lms,Canvas LMS,,Active,K0000002,,,,4811,2023-08-01T08:12:16,9279,2023-08-01T17:05:38,,
+a3b1799d-1c80-4066-abdd-3eb146685257,SS-crm,Slate CRM,,Active,K0000003,,,,4611,2023-08-01T11:53:29,8359,2023-08-01T17:28:54,,
+a3b1799d-1c80-4066-abdd-3eb146685257,SS-advising,EAB Navigate,,Active,,,,,7924,2023-08-01T08:17:47,6574,2023-08-01T12:17:16,,
+a3b1799d-1c80-4066-abdd-3eb146685257,SS-aid,PowerFAIDS,,Active,K0000004,,,,7224,2023-08-01T13:12:08,2584,2023-08-01T13:34:41,,
+a3b1799d-1c80-4066-abdd-3eb146685257,SS-housing,StarRez Housing,,Active,K0000005,,,,8527,2023-08-01T12:05:49,9785,2023-08-04T14:16:49,,
+a3b1799d-1c80-4066-abdd-3eb146685257,SS-degree,Banner Degree Works,,Active,,,,,6925,2023-08-01T16:28:56,4150,2023-08-04T18:39:56,,

@@ -1,0 +1,5 @@
+TenantIdentifier,FinancialAidFundIdentifier,SourceSystemIdentifier,Code,Title,Description,AidType,FundCategory,FundSource,PrivacyLevel,SourceSystemKeyValue,CreatedBy,CreatedDate,UpdatedBy,UpdatedDate,DeletedBy,DeletedDate
+a3b1799d-1c80-4066-abdd-3eb146685257,FUND-PELL,SS-aid,PELL,Federal Pell Grant,,Loan,FundCategory-1,Institutional,Restricted,K1535054,3876,2023-08-01T11:12:20,1706,2023-08-17T11:39:20,,
+a3b1799d-1c80-4066-abdd-3eb146685257,FUND-FSAG,SS-aid,FSAG,Florida Student Assistance Grant,,Grant,FundCategory-2,,,K1535055,3888,2023-08-01T11:28:33,6474,2023-08-01T17:23:05,,
+a3b1799d-1c80-4066-abdd-3eb146685257,FUND-BF,SS-aid,BF,Bright Futures Scholarship,,Scholarship,FundCategory-3,Other,NonRestricted,K1535056,6335,2023-08-01T09:58:08,3528,2023-08-30T10:41:08,,
+a3b1799d-1c80-4066-abdd-3eb146685257,FUND-LOAN,SS-aid,LOAN,Direct subsidized loan,,Work,,Federal,NonRestricted,,3419,2023-08-01T11:53:42,1511,2023-08-01T17:12:28,,

@@ -1,0 +1,2 @@
+TenantIdentifier,AcademicLevelIdentifier,SourceSystemIdentifier,Code,Name,Description,ActiveIndicator,SourceSystemKeyValue,CreatedBy,CreatedDate,UpdatedBy,UpdatedDate
+a3b1799d-1c80-4066-abdd-3eb146685257,AcademicLevel-1,SS-advising,Code-1,Name-1,,true,K0000024,2020,2023-08-01T11:41:27,1320,2023-08-01T17:41:33

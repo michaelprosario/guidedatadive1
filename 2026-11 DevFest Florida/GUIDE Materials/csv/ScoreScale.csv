@@ -1,0 +1,2 @@
+TenantIdentifier,ScoreScaleIdentifier,SourceSystemIdentifier,Name,Type,Status,SourceSystemKeyValue,SourceSystemCreatedBy,SourceSystemCreatedDate,SourceSystemUpdatedDate,SourceSystemDeletedDate,CreatedBy,CreatedDate,UpdatedBy,UpdatedDate,DeletedBy,DeletedDate
+a3b1799d-1c80-4066-abdd-3eb146685257,SCALE-percent,SS-sis,Name-1,Type-1,Active,K0015154,SourceSystemCreatedBy-1,,,,6602,2023-08-01T15:05:54,4005,2023-08-14T15:28:54,,

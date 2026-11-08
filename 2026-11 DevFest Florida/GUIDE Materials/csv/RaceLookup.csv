@@ -1,0 +1,4 @@
+RaceIdentifier,RaceCode,RaceName,RaceDescription,ActiveIndicator,CreatedBy,CreatedDate,UpdatedBy,UpdatedDate,DeletedBy,DeletedDate,TenantIdentifier,SourceSystemIdentifier,SourceSystemKeyValue
+RaceLo-white,RaceCode-1,White,,true,4919,2023-08-01T16:47:43,5499,2023-08-04T18:58:43,,,a3b1799d-1c80-4066-abdd-3eb146685257,SS-sis,K0000021
+RaceLo-black,RaceCode-2,Black or African American,,true,6502,2023-08-01T12:23:20,6238,2023-08-01T16:12:11,,,a3b1799d-1c80-4066-abdd-3eb146685257,SS-sis,K0000022
+RaceLo-asian,RaceCode-3,Asian,,true,3503,2023-08-01T10:23:27,4505,2023-08-04T12:34:27,,,a3b1799d-1c80-4066-abdd-3eb146685257,SS-sis,K0000023

@@ -1,0 +1,4 @@
+
+- need to understand patterns in data from advisor point of view
+- draft system to import sample student data
+- draft a system to import data into guide domain model

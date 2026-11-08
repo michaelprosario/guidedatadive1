@@ -1,0 +1,13 @@
+ReferenceCodeSetIdentifier,ReferenceCodeSetCode,ReferenceCodeSetDescription,GoverningAuthority,JurisdictionCountryCode,ReferenceCodeSetSortOrder,ActiveIndicator,CreatedBy,CreatedDate,UpdatedBy,UpdatedDate,DeletedBy,DeletedDate
+RCS-academicLoad,academicLoad,academicLoad,GoverningAuthority-1,JurisdictionCountryCode-1,13,true,2654,2023-08-01T11:28:08,7227,2023-08-01T12:47:43,,
+RCS-creditBasis,creditBasis,creditBasis,GoverningAuthority-2,JurisdictionCountryCode-2,,true,9179,2023-08-01T13:23:44,7482,2023-08-08T13:38:44,,
+RCS-programStatus,programStatus,programStatus,,JurisdictionCountryCode-3,5,true,3591,2023-08-01T12:34:10,8433,2023-08-04T14:45:10,,
+RCS-programObjective,programObjective,programObjective,GoverningAuthority-4,,8,true,2133,2023-08-01T09:12:49,9727,2023-08-06T09:50:49,,
+RCS-referral,referral,referral,GoverningAuthority-5,JurisdictionCountryCode-5,,true,6539,2023-08-01T11:23:07,1344,2023-08-01T17:53:17,,
+RCS-repeat,repeat,repeat,,JurisdictionCountryCode-6,2,true,8749,2023-08-01T17:58:33,7669,2023-09-10T18:32:33,,
+RCS-program_requirement_type,program_requirement_type,program_requirement_type,GoverningAuthority-7,,5,true,5563,2023-08-01T16:47:11,8579,2023-09-04T17:34:11,,
+RCS-ProgramRequirementSatisfactionStatus,ProgramRequirementSatisfactionStatus,ProgramRequirementSatisfactionStatus,GoverningAuthority-8,JurisdictionCountryCode-8,,true,2113,2023-08-01T09:17:07,4853,2023-08-01T14:12:39,,
+RCS-ProgramRequirementEvidenceType,ProgramRequirementEvidenceType,ProgramRequirementEvidenceType,,JurisdictionCountryCode-9,5,true,9900,2023-08-01T11:34:21,5956,2023-08-01T17:53:03,,
+RCS-orgType,orgType,orgType,GoverningAuthority-10,,7,true,3143,2023-08-01T12:05:03,5291,2023-09-05T12:37:03,,
+RCS-orgRelationship,orgRelationship,orgRelationship,GoverningAuthority-11,JurisdictionCountryCode-11,,true,3088,2023-08-01T16:17:30,1685,2023-08-09T16:30:30,,
+RCS-cohortType,cohortType,cohortType,,JurisdictionCountryCode-12,15,true,3900,2023-08-01T17:17:18,7755,2023-08-04T19:28:18,,

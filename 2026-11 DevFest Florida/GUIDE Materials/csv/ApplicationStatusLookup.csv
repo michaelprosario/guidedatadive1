@@ -1,0 +1,2 @@
+TenantIdentifier,ApplicationStatusIdentifier,ApplicationStatusCode,ApplicationStatusDescription,ApplicationStatusSortOrder,ActiveIndicator,CreatedBy,CreatedDate,UpdatedBy,UpdatedDate,DeletedBy,DeletedDate
+a3b1799d-1c80-4066-abdd-3eb146685257,APPSTAT-complete,ApplicationStatusCode-1,ApplicationStatus note-1,7,true,1859,2023-08-01T18:05:55,4954,2023-08-04T20:16:55,,

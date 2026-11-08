@@ -1,0 +1,4 @@
+TenantIdentifier,HousingRoomRateIdentifier,Code,Title,Description,TermIdentifier,StartDate,EndDate,AccountingCode,CancellationAccountingCode,SourceSystemIdentifier,SourceSystemKeyValue,CreatedDate,UpdatedDate
+a3b1799d-1c80-4066-abdd-3eb146685257,RATE1544018,Double,Double room,,T-university-2029SU,,,AccountingCode-1,CancellationAccountingCode-1,SS-advising,K1544019,2023-08-01T13:12:53,2023-08-11T13:46:53
+a3b1799d-1c80-4066-abdd-3eb146685257,RATE1544020,Single,Single room,,T-college-2025SP,,,AccountingCode-2,CancellationAccountingCode-2,,K1544021,2023-08-01T16:28:30,2023-08-04T18:39:30
+a3b1799d-1c80-4066-abdd-3eb146685257,RATE1544022,Triple,Triple room,,,,,,CancellationAccountingCode-3,SS-housing,K1544023,2023-08-01T08:05:12,2023-08-01T15:28:47

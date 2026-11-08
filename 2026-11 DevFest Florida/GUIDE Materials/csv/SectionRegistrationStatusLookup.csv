@@ -1,0 +1,5 @@
+TenantIdentifier,SectionRegistrationStatusIdentifier,Code,Title,Description,HeadcountStatusIndicator,ActiveIndicator,SourceSystemIdentifier,SourceSystemKeyValue,CreatedDate,UpdatedDate
+a3b1799d-1c80-4066-abdd-3eb146685257,Sectio-registered,Registered,Registered,,true,true,SS-sis,REG-registered,2023-08-01T13:34:30,2023-08-01T17:53:10
+a3b1799d-1c80-4066-abdd-3eb146685257,Sectio-withdrawn,Withdrawn,Withdrawn,,true,true,SS-sis,REG-withdrawn,2023-08-01T14:58:15,2023-08-04T17:09:15
+a3b1799d-1c80-4066-abdd-3eb146685257,Sectio-dropped,Dropped,Dropped,,false,true,SS-sis,REG-dropped,2023-08-01T14:05:36,2023-08-01T16:23:26
+a3b1799d-1c80-4066-abdd-3eb146685257,Sectio-waitlisted,Waitlisted,Waitlisted,,false,true,SS-sis,REG-waitlisted,2023-08-01T14:12:45,2023-09-07T14:42:45

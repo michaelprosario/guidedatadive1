@@ -1,0 +1,2 @@
+TenantIdentifier,EmailTypeIdentifier,SourceSystemIdentifier,Code,Title,Description,StandardEmailType,SourceSystemKeyValue,CreatedDate,UpdatedDate
+a3b1799d-1c80-4066-abdd-3eb146685257,EmailType-1,SS-sis,Code-1,Title-1,,StandardEmailType-1,K0000106,2023-08-01T12:23:56,2023-08-04T14:34:56
